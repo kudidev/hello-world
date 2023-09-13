@@ -1,4 +1,5 @@
- <div class="container">
+<form action="action_page.php"> 
+<div class="container">
   <form action="/action_page.php">
     <div class="row">
       <h2 style="text-align:center">Login with Social Media or Manually</h2>
@@ -42,3 +43,5 @@
     </div>
   </div>
 </div> 
+
+</form>
