@@ -16,10 +16,10 @@
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
         </a>
         <a href="#" class="google btn">
-          <i class="fa fa-google fa-fw"></i> Login with Google+
+          <i class="fa fa-google fa-fw"></i> Login with Google 
         </a>
         <a href="#" class="Myspace btn">
-          <i class="fa fa-Myspace fa-fw"></i> Login with Myspace+
+          <i class="fa fa-Myspace fa-fw"></i> Login with Myspace 
         </a>
       </div>
 
